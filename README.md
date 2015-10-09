@@ -28,65 +28,31 @@ Colors are divided into dark and light palettes which contain foreground and bac
 
 ### Foreground colors
 
-**#231F20 Pitch**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/231F20/231F20');
-"></div>
+**#231F20 Pitch**  
+![](http://dummyimage.com/200x40/231F20/231F20)
 
-**#565656 Gray No. 1**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/56/56');
-"></div>
+
+**#565656 Gray No. 1**  
+![](http://dummyimage.com/200x40/56/56)
 
 ### Background colors
 
-**#CCCCCC Dimly Lit**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/ccc/ccc');
-"></div>
+**#CCCCCC Dimly Lit**  
+![](http://dummyimage.com/200x40/ccc/ccc)
 
-**#E6E6E6 Brightly Lit**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/e6/e6');
-"></div>
+**#E6E6E6 Brightly Lit**  
+![](http://dummyimage.com/200x40/e6/e6)
 
-**#F2F2F2 Off White**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/f2/f2');
-"></div>
+**#F2F2F2 Off White**  
+![](http://dummyimage.com/200x40/f2/f2)
 
 ### Accent colors
 
-**#A6A8AB**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/a6a8ab/a6a8ab');
-"></div>
+**#A6A8AB**  
+![](http://dummyimage.com/200x40/a6a8ab/a6a8ab)
 
-**#B3B3B3**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/b3/b3');
-"></div>
+**#B3B3B3**  
+![](http://dummyimage.com/200x40/b3/b3)
 
 
 
@@ -95,66 +61,30 @@ Colors are divided into dark and light palettes which contain foreground and bac
 
 ### Foreground colors
 
-**#FFFFFF White**
-<div style="
-  width: 200px;
-  height: 40px;
-  border: 1px solid black;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/fff/fff');
-"></div>
+**#FFFFFF White**  
+![](http://dummyimage.com/200x40/fff/fff)
 
-**#AEAEAE Gray Wash**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/aaa/aaa');
-"></div>
+**#AEAEAE Gray Wash**  
+![](http://dummyimage.com/200x40/aaa/aaa)
 
 
 
 ### Background colors
 
-**#000000 Black**
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/000');
-"></div>
+**#000000 Black**  
+![](http://dummyimage.com/200x40/000)
 
 **#333333 Gutenberg Black**  
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/333/333');
-"></div>
+![](http://dummyimage.com/200x40/333/333)
 
 **#424242  Full Moon**  
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/42/42');
-"></div>
+![](http://dummyimage.com/200x40/42/42)
 
 
 ### Accent Colors
 
 **#3F3F3F**  
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/3f3f3f/3f3f3f');
-"></div>
+![](http://dummyimage.com/200x40/3f3f3f/3f3f3f)
 
 **#545454**  
-<div style="
-  width: 200px;
-  height: 40px;
-  margin: -16px 0 16px 0;
-  background-image:url('http://dummyimage.com/200x40/545454/545454');
-"></div>
+![](http://dummyimage.com/200x40/545454/545454)
