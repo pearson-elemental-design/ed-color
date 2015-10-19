@@ -4,7 +4,7 @@
 * [Light Palette](#light-palette)
 * [Dark Palette](#dark-palette)
 
-## Overview test
+## Overview Hello
 Every color used throughout the Elemental Design Library is defined in this component. The `ed-color` component itself is fairly low level—other components should prefer to get their colors indirectly from higher level components like `ed-typography`, `ed-buttons`, etc.
 
 Colors are divided into dark and light palettes which contain foreground and background colors that have been tested to meet the contrast requirements of accessibility guidelines. Additional accent colors are meant for non-textual uses (like separator lines) and aren't tested for accessibility.
